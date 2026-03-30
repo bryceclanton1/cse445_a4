@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <NationalPark>
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
@@ -5,16 +6,18 @@
     <Phone>888-297-2757</Phone>
     <Phone>866-499-2574</Phone>
     <Address NearestAirport="Flagstaff">
-      <Number></Number>
+      <Number>8</Number>
       <Street>S Entrance Road</Street>
       <City>Grand Canyon</City>
       <State>AZ</State>
       <Zip>86023</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark>
     <Name>Mount Rainier</Name>
-    <Address NearestAirport="Seattle">
+    <Phone>360-569-2211</Phone>
+    <Address>
       <Number>55210</Number>
       <Street>238th Avenue East</Street>
       <City>Ashford</City>
@@ -22,18 +25,19 @@
       <Zip>98304</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.9">
     <Name>Shenandoah</Name>
-    <Phone>540-999-3500</Phone>
     <Address NearestAirport="Las Vegas">
       <Number>3655</Number>
       <Street>US Highway 211 East</Street>
       <City>Luray</City>
       <State>VA</State>
       <Zip>22835</Zip>
+    </Address>
   </NationalPark>
+
   <NationalPark>
-    <Name>Acadia</Name>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
     <Address NearestAirport="Bangor">
@@ -44,6 +48,7 @@
       <Zip>04609</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.1">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
@@ -55,7 +60,8 @@
       <Zip>98362</Zip>
     </Address>
   </NationalPark>
-    <NationalPark Rating="4.7">
+
+  <NationalPark Rating="4.7">
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
     <Phone>209-372-0201</Phone>
@@ -67,6 +73,7 @@
       <Zip>95389</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark>
     <Name>Everglades</Name>
     <Phone>305-242-7700</Phone>
@@ -78,6 +85,7 @@
       <Zip>33034</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark>
     <Name>Cuyahoga Valley</Name>
     <Phone>440-717-3890</Phone>
@@ -89,6 +97,7 @@
       <Zip>44141</Zip>
     </Address>
   </NationalPark>
+
   <NationalPark Rating="4.2">
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
@@ -98,10 +107,11 @@
       <City>West Glacier</City>
       <State>MT</State>
       <Zip>59936</Zip>
-    </Address>
   </NationalPark>
-    <NationalPark Rating="4.3">
+
+  <NationalPark Rating="4.3">
     <Name>Rocky Mountain</Name>
+    <Name>Rocky Mountains</Name>
     <Phone>970-586-1206</Phone>
     <Address NearestAirport="Denver">
       <Number>1000</Number>
