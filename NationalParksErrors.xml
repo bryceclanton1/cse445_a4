@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks>
+<NationalPark>
   <NationalPark Rating="4.9">
     <Name>Bryce Canyon</Name>
     <Address NearestAirport="Cedar City">
