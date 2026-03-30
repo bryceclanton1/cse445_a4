@@ -2,12 +2,13 @@
 <NationalParks>
   <NationalPark Rating="4.9">
     <Name>Bryce Canyon</Name>
+    <Address NearestAirport="Cedar City">
       <Number>1</Number>
       <Street>Bryce Canyon Road</Street>
       <City>Bryce</City>
       <State>UT</State>
       <Zip>84764</Zip>
-     <Address NearestAirport="Cedar City"> </Address>
+      </Address>
   </NationalPark>
   <NationalPark>
     <Name>Joshua Tree</Name>
