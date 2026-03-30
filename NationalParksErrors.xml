@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<NationalPark xmlns="http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml NationalParks.xsd">
 <NationalPark>
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
